@@ -175,7 +175,7 @@ public class ComputerRepairShop{
         frame.setLayout(new GridBagLayout());
         GridBagConstraints gbc = new GridBagConstraints();
 
-        JLabel welcomeLabel = new JLabel("COMPUTER REPAIR SHOP piski siski");
+        JLabel welcomeLabel = new JLabel("COMPUTER REPAIR SHOP");
         welcomeLabel.setFont(new Font("Arial", Font.BOLD, 20));
         gbc.gridx = 0;
         gbc.gridy = 0;
